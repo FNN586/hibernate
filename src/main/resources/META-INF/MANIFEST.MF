@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: spring-tx-6.1.3.jar spring-orm-6.1.3.jar micrometer-commons-
+ 1.12.2.jar slf4j-api-2.0.11.jar logback-core-1.4.14.jar jakarta.persist
+ ence-api-3.1.0.jar istack-commons-runtime-4.1.2.jar spring-boot-starter
+ -web-3.2.2.jar jakarta.xml.bind-api-4.0.1.jar byte-buddy-1.14.11.jar ja
+ xb-runtime-4.0.4.jar h2-2.2.224.jar jakarta.inject-api-2.0.1.jar spring
+ -beans-6.1.3.jar jaxb-core-4.0.4.jar jakarta.transaction-api-2.0.1.jar 
+ micrometer-observation-1.12.2.jar jackson-module-parameter-names-2.15.3
+ .jar spring-boot-starter-3.2.2.jar log4j-api-2.21.1.jar txw2-4.0.4.jar 
+ log4j-to-slf4j-2.21.1.jar spring-expression-6.1.3.jar jakarta.activatio
+ n-api-2.1.2.jar classmate-1.6.0.jar spring-boot-autoconfigure-3.2.2.jar
+  spring-boot-starter-json-3.2.2.jar spring-jcl-6.1.3.jar jul-to-slf4j-2
+ .0.11.jar jackson-databind-2.15.3.jar spring-context-6.1.3.jar jakarta.
+ annotation-api-2.1.1.jar jboss-logging-3.5.3.Final.jar jackson-annotati
+ ons-2.15.3.jar jackson-datatype-jsr310-2.15.3.jar logback-classic-1.4.1
+ 4.jar antlr4-runtime-4.13.0.jar angus-activation-2.0.1.jar jandex-3.1.2
+ .jar spring-boot-starter-logging-3.2.2.jar spring-boot-3.2.2.jar hibern
+ ate-commons-annotations-6.0.6.Final.jar spring-jdbc-6.1.3.jar spring-we
+ bmvc-6.1.3.jar snakeyaml-2.2.jar jackson-datatype-jdk8-2.15.3.jar sprin
+ g-web-6.1.3.jar spring-core-6.1.3.jar spring-aop-6.1.3.jar jackson-core
+ -2.15.3.jar
+
